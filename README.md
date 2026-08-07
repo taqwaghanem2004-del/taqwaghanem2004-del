@@ -1,11 +1,11 @@
 <div align="center">
 
-<!-- Header Banner like Alaa's style -->
+<!-- Header Banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=b4befe&height=180&section=header&text=Hi,%20I'm%20Taqwa%20Ghanem%20🌸&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-### **Computer Systems Engineering | Backend & AI Engineer**
+### **Computer Systems Engineering | Backend & API Developer**
 
-`C# / .NET Core` • `Python / FastAPI` • `RAG & AI Stack`
+`C# / .NET Core` • `Python / FastAPI` • `RAG Integration`
 
 <br/>
 
@@ -21,7 +21,7 @@
 
 - 🎓 Graduated with a degree in **Computer Systems Engineering** from **Palestine Technical University (PTUK)**.
 - 💻 Specialized in **Clean Architecture**, **CQRS**, and **RESTful APIs** using **.NET Core**.
-- 🤖 Experienced in building Intelligent Systems using **Python**, **FastAPI**, and **Retrieval-Augmented Generation (RAG)**.
+- 🛠️ Experienced in integrating **Retrieval-Augmented Generation (RAG)** workflows into backend services using **Python & FastAPI**.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/taqwa-ghanem-694894317/)
 - 📫 How to reach me: **taqwaghanem2004@gmail.com**
 
@@ -44,5 +44,5 @@
 ---
 
 <div align="center">
-  <i>"Building efficient backend systems and bridging hardware with software intelligence."</i>
+  <i>"Building robust backend architectures and integrating intelligent solutions."</i>
 </div>
