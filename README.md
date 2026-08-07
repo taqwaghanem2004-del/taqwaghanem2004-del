@@ -1,7 +1,7 @@
 <div align="center">
 
-<!-- Developer Illustration GIF -->
-<img src="https://cdni.iconscout.com/illustration/premium/thumb/female-developer-working-on-laptop-illustration-download-in-svg-png-gif-file-formats--woman-programmer-coding-pack-network-communication-illustrations-8628178.png" width="380px" alt="Taqwa Ghanem - Backend Developer" />
+<!-- Girl Coding GIF -->
+<img src="https://media.giphy.com/media/qgQUGG4dbv5BLDYnrA/giphy.gif" width="350px" alt="Coding GIF" />
 
 # Hi 👋, I'm Taqwa Ghanem 🌸
 
@@ -21,9 +21,9 @@
 
 ### 🚀 About Me
 
-- 🎓 Graduated with a degree in **Computer Systems Engineering** from **Palestine Technical University (PTUK)**.
-- 💻 Specialized in **Clean Architecture**, **CQRS**, and **RESTful APIs** using **.NET Core**.
-- 🤖 Experienced in building Intelligent Systems using **Python**, **FastAPI**, and **Retrieval-Augmented Generation (RAG)**.
+- 🎓 Graduated with a degree in **Computer Systems Engineering** from **Palestine Technical University (PTUK)**[cite: 1].
+- 💻 Specialized in **Clean Architecture**, **CQRS**, and **RESTful APIs** using **.NET Core**[cite: 1].
+- 🤖 Experienced in building Intelligent Systems using **Python**, **FastAPI**, and **Retrieval-Augmented Generation (RAG)**[cite: 1].
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/taqwa-ghanem-694894317/)
 - 📫 How to reach me: **taqwaghanem2004@gmail.com**
 
