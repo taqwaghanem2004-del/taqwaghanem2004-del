@@ -41,14 +41,6 @@ I am a **Computer Systems Engineering** graduate passionate about building scala
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=taqwaghanem2004-del&show_icons=true&theme=radial&hide_border=true" alt="Taqwa's GitHub Stats" />
-</div>
-
----
-
 <div align="center">
   <i>"Building efficient backend systems and bridging hardware with software intelligence."</i>
 </div>
