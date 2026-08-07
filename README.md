@@ -1,8 +1,5 @@
 <div align="center">
 
-<!-- Girl Coding GIF -->
-<img src="https://media.giphy.com/media/qgQUGG4dbv5BLDYnrA/giphy.gif" width="350px" alt="Coding GIF" />
-
 # Hi 👋, I'm Taqwa Ghanem 🌸
 
 ### **Computer Systems Engineering | Backend & AI Engineer**
@@ -21,9 +18,9 @@
 
 ### 🚀 About Me
 
-- 🎓 Graduated with a degree in **Computer Systems Engineering** from **Palestine Technical University (PTUK)**[cite: 1].
-- 💻 Specialized in **Clean Architecture**, **CQRS**, and **RESTful APIs** using **.NET Core**[cite: 1].
-- 🤖 Experienced in building Intelligent Systems using **Python**, **FastAPI**, and **Retrieval-Augmented Generation (RAG)**[cite: 1].
+- 🎓 Graduated with a degree in **Computer Systems Engineering** from **Palestine Technical University (PTUK)**.
+- 💻 Specialized in **Clean Architecture**, **CQRS**, and **RESTful APIs** using **.NET Core**.
+- 🤖 Experienced in building Intelligent Systems using **Python**, **FastAPI**, and **Retrieval-Augmented Generation (RAG)**.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/taqwa-ghanem-694894317/)
 - 📫 How to reach me: **taqwaghanem2004@gmail.com**
 
