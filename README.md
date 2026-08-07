@@ -1,41 +1,57 @@
 <div align="center">
 
-<!-- صورة البانر (استبدلي banner.png باسم ملف الصورة التي ترفعينها) -->
-<img src="banner.png" width="100%" alt="Header Banner" />
+# Hi 👋, I'm Taqwa Musaddaq Ghanem 🌸
 
-# Hi 👋, I'm Taqwa Ghanem 🌸
+### Computer Systems Engineering Graduate | Backend & AI Engineer
 
-I am currently studying Computer Systems Engineering at PTUK university.
+[![Profile Views](https://komarev.com/ghpvc/?username=TaqwaGhanem&color=blueviolet)](https://github.com/TaqwaGhanem)
 
-![Profile views](https://komarev.com/ghpvc/?username=taqwaghanem2004-del&color=ff69b4&style=flat-square)
+---
+
+I am a **Computer Systems Engineering** graduate passionate about building scalable **Backend Architectures** and integrating **AI / RAG Solutions**.
 
 </div>
 
 ---
 
-### 📬 How to reach me:
-* **Email:** [dr.taqwaghanem@gmail.com](mailto:taqwaghanem2004@gmail.com)
+### 🚀 About Me
+
+- 🎓 Graduated with a degree in **Computer Systems Engineering** from **Palestine Technical University (PTUK)**.
+- 💻 Specialized in **Clean Architecture**, **CQRS**, and **RESTful APIs** using **.NET Core**.
+- 🤖 Experienced in building Intelligent Systems using **Python**, **FastAPI**, and **Retrieval-Augmented Generation (RAG)**.
+- 📫 How to reach me: **your.email@example.com**
 
 ---
 
-### 🤝 Connect with me:
+### 🛠️ Languages and Tools
+
 <p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
+  <!-- Backend & Core Languages -->
+  <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  
+  <!-- Databases & Storage -->
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server" />
+  
+  <!-- AI & Web -->
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-### 🛠️ Languages and Tools:
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt=".NET" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  &nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-</p>
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TaqwaGhanem&show_icons=true&theme=radial&hide_border=true" alt="Taqwa's GitHub Stats" />
+</div>
+
+---
+
+<div align="center">
+  <i>"Building efficient backend systems and bridging hardware with software intelligence."</i>
+</div>
