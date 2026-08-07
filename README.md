@@ -1,9 +1,10 @@
 <div align="center">
 
-# Hi 👋, I'm Taqwa Musaddaq Ghanem 🌸
+# Hi 👋, I'm Taqwa Ghanem 🌸
 
 ### Computer Systems Engineering Graduate | Backend & AI Engineer
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-username)
 [![Profile Views](https://komarev.com/ghpvc/?username=TaqwaGhanem&color=blueviolet)](https://github.com/TaqwaGhanem)
 
 ---
@@ -19,6 +20,7 @@ I am a **Computer Systems Engineering** graduate passionate about building scala
 - 🎓 Graduated with a degree in **Computer Systems Engineering** from **Palestine Technical University (PTUK)**.
 - 💻 Specialized in **Clean Architecture**, **CQRS**, and **RESTful APIs** using **.NET Core**.
 - 🤖 Experienced in building Intelligent Systems using **Python**, **FastAPI**, and **Retrieval-Augmented Generation (RAG)**.
+- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/your-linkedin-username)
 - 📫 How to reach me: **your.email@example.com**
 
 ---
