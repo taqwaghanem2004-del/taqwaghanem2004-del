@@ -14,7 +14,7 @@ I am currently studying Computer Systems Engineering at PTUK university.
 ---
 
 ### 📬 How to reach me:
-* **Email:** [dr.taqwaghanem@gmail.com](mailto:dr.taqwaghanem2004@gmail.com)
+* **Email:** [dr.taqwaghanem@gmail.com](mailto:taqwaghanem2004@gmail.com)
 
 ---
 
