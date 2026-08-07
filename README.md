@@ -1,6 +1,7 @@
 <div align="center">
 
-# Hi 👋, I'm Taqwa Ghanem 🌸
+<!-- Header Banner like Alaa's style -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=b4befe&height=180&section=header&text=Hi,%20I'm%20Taqwa%20Ghanem%20🌸&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
 ### **Computer Systems Engineering | Backend & AI Engineer**
 
