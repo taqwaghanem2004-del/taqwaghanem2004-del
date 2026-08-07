@@ -4,7 +4,7 @@ I am currently studying Computer Systems Engineering at PTUK university.
 
 ![Views](https://komarev.com/ghpvc/?username=taqwaghanem2004-del&color=blue)
 
-- 📬 How to reach me: **your-email@example.com**
+- 📬 How to reach me: **taqwaghanem2004@gmail.com**
 
 ### Connect with me:
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
