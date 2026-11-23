@@ -24,6 +24,7 @@
 - 🛠️ Experienced in integrating **Retrieval-Augmented Generation (RAG)** workflows into backend services using **Python & FastAPI**.
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/taqwa-ghanem-694894317/)
 - 📫 How to reach me: **taqwaghanem2004@gmail.com**
+- 🧪 Completed QA engineering training at ITG Software Engineering: manual testing, Playwright automation, Postman, JMeter and AI in testing. See my [QA portfolio](https://github.com/taqwaghanem2004-del/qa-engineering-portfolio).
 
 ---
 
